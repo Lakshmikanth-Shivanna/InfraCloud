@@ -4,7 +4,9 @@ Run the container
 docker run infracloudio/csvserver
 ```
 
+```
 2021/01/25 07:34:19 error while reading the file "./inputdata": open ./inputdata: no such file or directory
+```
 
 
 solution --> 
